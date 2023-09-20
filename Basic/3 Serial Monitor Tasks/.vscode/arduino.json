@@ -1,0 +1,4 @@
+{
+    "sketch": "Serielle_Schnittstelle.ino",
+    "board": "arduino:avr:uno"
+}

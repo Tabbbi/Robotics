@@ -1,0 +1,2 @@
+a) Der Pin weißt den Zustand LOW auf, da der Pull-Down Widerstand den Pegel nach unten zieht.
+b) Der Pin zeigt den Zustand HIGH auf, da der Strom zum Pin fließen kann.

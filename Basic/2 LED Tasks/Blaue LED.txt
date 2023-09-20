@@ -1,0 +1,9 @@
+UR = Spannung am Vorwiderstand
+UG = Gesamtspannung
+UL = Sannung an der LED
+R= Vorwiderstand
+
+UR = 5V - 3,2V = 1,8V
+R = 1,8V / 0,02A = 90Ohm
+
+Es wird mindestens ein Vorwiderstand von 90 Ohm gebraucht.

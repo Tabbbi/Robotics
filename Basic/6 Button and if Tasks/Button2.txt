@@ -1,0 +1,2 @@
+Wenn der Taster offen ist, liegt HIGH am Arduino an, da der Widerstand das Potenzial auf 5V hochzieht.
+Wenn der Taster geschlossen ist, liegt LOW am Arduino an, da der Taster die Spannung über den Widerstand zieht.

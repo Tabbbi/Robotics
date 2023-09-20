@@ -1,0 +1,7 @@
+Diodenspannungen UD verschiedenfarbiger LEDs
+
+a)	rot	2,3V
+b)	gelb	2,1V
+c)	grün	2,1V
+d)	blau	3,3V
+e)	weiß	3,6V
